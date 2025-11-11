@@ -1,1 +1,1 @@
-# titanic_dataset
+#Ejercicio de titanic_dataset (funciones básicas)
